@@ -1,13 +1,9 @@
-# RetailPro - Data Analytics
+# RetailPro
 
-Martin D´addona · Pre-entrega N°3
+Martin D´addona - Pre-entrega N°3
 
-El archivo `modulo-3/ventas_tech_db.sql` crea la base `Ventas_Tech_DB` en Microsoft SQL Server y carga los datos del checkpoint TechStore.
+El archivo está en `modulo-3/ventas_tech_db.sql`. Crea la base `Ventas_Tech_DB` con las tablas de categorías, clientes, productos y ventas, y carga los datos de la consigna.
 
-## Ejecución
+Para usarlo, abrir el archivo en SQL Server Management Studio y ejecutar el script completo. Al volver a ejecutarlo, se borran y se crean de nuevo las cuatro tablas.
 
-Abrir el archivo en SQL Server Management Studio, conectarse al servidor y ejecutar el script completo. Incluye las secciones DROP, CREATE, INSERT y VALIDACIÓN. Al ejecutarlo, las cuatro tablas del ejercicio se vuelven a crear con los datos proporcionados por el curso.
-
-Las consultas finales deben devolver 4 categorías, 5 clientes, 6 productos y 10 ventas.
-
-El script se comprobó dos veces en SQL Server, usando una base temporal independiente. Las dos ejecuciones terminaron correctamente.
+Al final están las consultas para revisar los datos. Deben aparecer 4 categorías, 5 clientes, 6 productos y 10 ventas.
