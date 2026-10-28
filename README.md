@@ -2,8 +2,12 @@
 
 Martin D´addona
 
-Pre-entrega N°3: el archivo ventas_tech_db.sql está en la carpeta modulo-3. Crea la base Ventas_Tech_DB con los datos de la consigna: 4 categorías, 5 clientes, 6 productos y 10 ventas.
+Los archivos de M3, M4 y M5 están juntos en la raíz del repositorio:
 
-Pre-entrega N°4: el archivo m4_consultas_negocio.sql está en la carpeta modulo-4. Incluye las cuatro consultas de negocio y los tres hallazgos pedidos.
+- ventas_tech_db.sql: crea la base Ventas_Tech_DB y carga los datos de M3.
+- m4_consultas_negocio.sql: contiene las consultas de negocio de M4.
+- m5_consultas_joins.sql: contiene las cuatro consultas de M5, con su propósito y hallazgo.
 
-Para ejecutarlos, abrir los archivos en SQL Server Management Studio. Primero se carga la base con el archivo de M3 y después se ejecutan las consultas de M4. Volver a ejecutar M3 borra y crea de nuevo las cuatro tablas.
+Abrirlos en SQL Server Management Studio y ejecutar primero M3. Después se pueden ejecutar M4 y M5. Volver a ejecutar M3 borra y crea de nuevo las cuatro tablas.
+
+Las carpetas modulo-3 y modulo-4 conservan los archivos de las entregas anteriores. Son iguales a las copias de la raíz.
