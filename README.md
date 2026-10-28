@@ -10,4 +10,4 @@ Los archivos de M3, M4 y M5 están juntos en la raíz del repositorio:
 
 Abrirlos en SQL Server Management Studio y ejecutar primero M3. Después se pueden ejecutar M4 y M5. Volver a ejecutar M3 borra y crea de nuevo las cuatro tablas.
 
-Las carpetas modulo-3 y modulo-4 conservan los archivos de las entregas anteriores. Son iguales a las copias de la raíz.
+Las carpetas modulo-3, modulo-4 y modulo-5 contienen la copia de cada entrega. Son iguales a los archivos de la raíz.
