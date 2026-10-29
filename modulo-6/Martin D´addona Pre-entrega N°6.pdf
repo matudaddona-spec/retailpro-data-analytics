@@ -129,8 +129,8 @@ endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/matudaddona-spec/retailpro-data-analytics/blob/main/modulo-6/Pipeline_ETL_Daddona_Martin.pbix)
->> /Border [ 0 0 0 ] /Rect [ 30 32.7379 528.5088 44.1379 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/matudaddona-spec/retailpro-data-analytics/blob/main/modulo-6/Martin%20D%C2%B4addona%20Pre-entrega%20N%C2%B06.pbix)
+>> /Border [ 0 0 0 ] /Rect [ 30 32.7379 166.7434 44.1379 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
@@ -467,7 +467,7 @@ endobj
 endobj
 26 0 obj
 <<
-/Author (Martin D\264addona) /CreationDate (D:20261029162537-03'00') /Creator (anonymous) /Keywords () /ModDate (D:20261029162537-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Martin D\264addona) /CreationDate (D:20261029174422-03'00') /Creator (anonymous) /Keywords () /ModDate (D:20261029174422-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (Pre-entrega 6: evidencia del pipeline ETL) /Title (Pipeline ETL con Power Query y M) /Trapped /False
 >>
 endobj
@@ -520,10 +520,10 @@ Gar?,9kshS&;KZN/*>J;-I1nV95gZO.@7maH4.`8_j9YXWX8=T=19L&Q2ttBkBV:u@(Br2m0)q._.l\0
 endobj
 34 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 530
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 446
 >>
 stream
-Gar?-:N*!^&B4,6'Q\*")hYt7e(]&pSm#i06E<7;M?\$U/&2i\<Vu0-%,"0CA]aM8nXJE_jq-#"o3D"i%jaV>*-_PH*k5SZb%GrM=)TU<W_?pDKOBY\EdC"fN!mpB%P5kFQ)DENN&.;<C0.4NcOEFF-h68X[PGoO4G_lc"rl%[I\PGrSI@RS"J"b0H+2.6R'[g;C[<X;Y>BZU0Y_=,!qCl]B:sL`\8Iom\H&E++D0<n0P/?7n]*VMTj<<-3_$?#dh)qXe-jneNWm#_i64G[/_*YJ!OfATL/rp-h3m+.@E6+/9#[2rKpm:?i2fJG%.(N64I&?#O.P^fs0WTb/#?5lpTdU6$a$I'BT5'UMl,4+Gleq3*C6-aA_o&!dk>=L3M2lA&*NQu`@6QgKcaZ3L[>Ni/+^$Z]q7Fk;bMk3:Cl<CmQQM3it'1fe[CNboZ%0*`X]M%UTU@`HSjP<feoUbCE0SUoVQe/e_,i&bn0QV3HfS:8&*8=E=R<h=?c13MotGk-Z=a-k:0kAr<'>o^;B~>endstream
+Gar?-?VA9j'ZJu,.IQ5nEgJUsPPXF3"2P4r,!HD\D:9D+QRs6Wq=Z0&2I.V*Os]qYh`7#)nVd+uZ3?WY0O%GJ1#t2gNZ@Tp\BCXQ6k:pgJV8*'7?[KSIt<h_.T/NtUbZM3>`_?GE)#EDkc'-"C;"k>l&R%0a#&TJ"N&$_YIA8M)s`IJi#@n2hopk08qYUK<iml6L&;t^MZEA0f/XDeOIUhlIkbg_UDNu5!$I[$%N38L`3\_%.^Z8+hKJ*kCU<^_r_GP)XU*mc]7S=E4B(:t455=$r*EBP[kXQ-VDXi^_LJpZ;Nrr#4V-]i1F>Lt:F/mcZ@G,C>1^L@!n0JN=bp6l;QELW,2l]U:!0OeC6llDYi?!kI$30R)u!9)JofX-4be$F7!?X[8E&\ip.,"Z*R*uUHRHYPOPHe-E5qjIf!,Wa'AOAcCGd+Y!RVGH>+E2~>endstream
 endobj
 xref
 0 35
@@ -543,29 +543,29 @@ xref
 0000257902 00000 n 
 0000258172 00000 n 
 0000295409 00000 n 
-0000295666 00000 n 
-0000295955 00000 n 
-0000296713 00000 n 
-0000326585 00000 n 
-0000326843 00000 n 
-0000328025 00000 n 
-0000328787 00000 n 
-0000367173 00000 n 
-0000367419 00000 n 
-0000368578 00000 n 
-0000368648 00000 n 
-0000368973 00000 n 
-0000369072 00000 n 
-0000370681 00000 n 
-0000371141 00000 n 
-0000373013 00000 n 
-0000373470 00000 n 
-0000373933 00000 n 
-0000374415 00000 n 
+0000295686 00000 n 
+0000295975 00000 n 
+0000296733 00000 n 
+0000326605 00000 n 
+0000326863 00000 n 
+0000328045 00000 n 
+0000328807 00000 n 
+0000367193 00000 n 
+0000367439 00000 n 
+0000368598 00000 n 
+0000368668 00000 n 
+0000368993 00000 n 
+0000369092 00000 n 
+0000370701 00000 n 
+0000371161 00000 n 
+0000373033 00000 n 
+0000373490 00000 n 
+0000373953 00000 n 
+0000374435 00000 n 
 trailer
 <<
 /ID 
-[<70936fc52a57ae8a940706f17fbd5ceb><70936fc52a57ae8a940706f17fbd5ceb>]
+[<809875cfcbdedff53104e5eb7ddee326><809875cfcbdedff53104e5eb7ddee326>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 26 0 R
@@ -573,5 +573,5 @@ trailer
 /Size 35
 >>
 startxref
-375036
+374972
 %%EOF
